@@ -1,0 +1,87 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 295.18475118062986,
+            "y": 124
+          },
+          "nodeIndex": "HumanResources vEmployee",
+          "nodeLineageTag": "c577cae6-eabe-4a2e-8b15-93c65f736152",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 578.36163941535983,
+            "y": 34.324992632434686
+          },
+          "nodeIndex": "HumanResources vEmployeeDepartment",
+          "nodeLineageTag": "e988062f-852b-4c48-b1e0-f865952dc9df",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 10,
+            "y": 2.0651091773417676
+          },
+          "nodeIndex": "HumanResources vEmployeeDepartmentHistory",
+          "nodeLineageTag": "040cf39f-959b-46aa-8fce-7fdb08a1f193",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 852.36163941535983,
+            "y": 5
+          },
+          "nodeIndex": "HumanResources vJobCandidateEducation",
+          "nodeLineageTag": "fa800443-426f-4ded-a872-1a2abefbe063",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 1136.3616394153598,
+            "y": 5
+          },
+          "nodeIndex": "HumanResources vJobCandidateEmployment",
+          "nodeLineageTag": "b1f3a5c7-6497-4ce2-ace4-9715192a9f15",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 4
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
